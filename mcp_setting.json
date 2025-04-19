@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+      "claude_code": {
+        "command": "bash",
+        "args": [
+          "-lc",
+          "cd /home/als0028/work/shintairiku/mcp-client-test && /home/als0028/.nvm/versions/node/v22.14.0/bin/claude mcp serve"
+        ]
+      }
+    }
+  }
+  
